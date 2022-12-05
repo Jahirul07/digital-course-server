@@ -1,0 +1,30 @@
+[
+    {
+      "id": "01",
+      "name": "Design"
+    },
+    {
+      "id": "02",
+      "name": "Development"
+    },
+    {
+      "id": "03",
+      "name": "Marketing"
+    },
+    {
+      "id": "04",
+      "name": "IT and Software"
+    },
+    {
+      "id": "05",
+      "name": "Personal Development"
+    },
+    {
+      "id": "06",
+      "name": "Business"
+    },
+    {
+      "id": "08",
+      "name": "All Courses"
+    }
+  ]
