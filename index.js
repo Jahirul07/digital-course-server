@@ -12,7 +12,6 @@ app.get('/course-categories', (req, res) =>{
     res.send(categories);
 })
 
-
 app.listen(port, () =>{
     console.log('Server is running on', port)
 })
