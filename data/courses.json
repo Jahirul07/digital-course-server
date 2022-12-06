@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.9,
+            "price": "400"
+        },
+        "total_download": 488,
+        "title": "Photoshop Master Course: From Beginner to Photoshop Pro",
+        "author": {
+          "name": "Jahirul Islam",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/4a/27/d04a27c2-cbb0-1321-4d3a-d8df0da32255/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+        "details": "This Adobe Photoshop Beginner Course will teach a Beginner Photoshop user all essentials of Adobe Photoshop CC."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.9,
+            "price": "400"
+        },
+        "total_download": 488,
+        "title": "The Complete 2020 Fullstack Web Developer Course",
+        "author": {
+          "name": "Jahirul Islam",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://cdn.mindmajix.com/courses/full-stack-training.png",
+        "details": "Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.9,
+            "price": "400"
+        },
+        "total_download": 488,
+        "title": "Google Ads for Beginners",
+        "author": {
+          "name": "Jahirul Islam",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/4a/27/d04a27c2-cbb0-1321-4d3a-d8df0da32255/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+        "details": "Learn how to effectively use Google Ads to reach more customers online and grow your business.."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.9,
+            "price": "400"
+        },
+        "total_download": 488,
+        "title": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
+        "author": {
+          "name": "Jahirul Islam",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/4a/27/d04a27c2-cbb0-1321-4d3a-d8df0da32255/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+        "details": "Join The 90,000+ Students Who Are Learning Real-World Skills AND Earning Their CCNA!."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.9,
+            "price": "400"
+        },
+        "total_download": 488,
+        "title": "Learning How to Learn",
+        "author": {
+          "name": "Jahirul Islam",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/4a/27/d04a27c2-cbb0-1321-4d3a-d8df0da32255/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+        "details": "Becoming your own Brain Mechanic - Know how to keep your genius mind open."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.9,
+            "price": "400"
+        },
+        "total_download": 488,
+        "title": "How to Write an Effective Research Paper",
+        "author": {
+          "name": "Jahirul Islam",
+          "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d0/4a/27/d04a27c2-cbb0-1321-4d3a-d8df0da32255/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/1200x630wa.png",
+        "details": "Learn how to write award-winning research papers with easy steps. Includes examples and a research paper template."
+    }
+    
+]
