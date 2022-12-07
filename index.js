@@ -19,14 +19,23 @@ app.get('/course-categories', (req, res) =>{
 
 app.get('/category/:id', (req, res) =>{
     const id = req.params.id;
-    const totalCategory = course.filter( c => c.category_id === id);
-    req.send(totalCategory);
+    if(id === '08'){
+        res.send(courses)
+    }
+    else{
+        const totalCategory = courses.filter( c => c.category_id === id);
+        res.send(totalCategory);
+    }
+})
+
+app.get('/courses', (req, res) =>{
+    res.send(courses);
 })
 
 app.get('/courses/:id', (req, res) =>{
     const id = req.params.id;
-    const selecredCourse = courses.find( course => course._id === id)
-    res.send(selecredCourse);
+    const selectedCourse = courses.find( course => course._id === id)
+    res.send(selectedCourse);
 })
 
 app.listen(port, () =>{
